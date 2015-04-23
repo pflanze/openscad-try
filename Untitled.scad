@@ -9,7 +9,7 @@ module table () {
 	}
 }
 
-for (i = [1:5]) {
+for (i = [0:5]) {
 	scale(i) table();
 }
 
